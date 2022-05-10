@@ -5,9 +5,11 @@ This is a programming exercise for creating two animated eyeballs on the screen.
 
 ## How to Run
 (1) Download all files from the master branch of this repository into a directory on your local machine 
-  <l1> index.html </l1>
-  <l1> eyes.js </l1>
-  <l1> styles.css </l1>
+<ul>
+  <li> index.html </li>
+  <li> eyes.js </li>
+  <li> styles.css </li>
+</ul>
 (2) Open index.html in browser (Google Chrome provides best results)
 
 ## Roadmap
