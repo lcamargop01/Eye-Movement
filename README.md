@@ -7,7 +7,5 @@ Download all of the files within this repository, and load the index.html file i
 ## Roadmap
 I would potentially like to add the eyes to an animal and/or person to make it more realistic.
 
-## License information
-MIT License
-
-Copyright (c) 2022 Laura Camargo
+## License 
+lcamargop01/Eye-Movement is licensed under the MIT License
